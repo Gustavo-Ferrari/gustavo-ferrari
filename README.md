@@ -30,6 +30,6 @@
 
 - 🌱 I’m currently learning WEB Programming on <strong>TRYBE 🚀</strong>
 - 💬 Ask me about <strong>Science!</strong>
-- 👨‍🔬 Fun fact: <strong>I have a Masters in Genetic and a PhD. in Biochemistry </strong>
+- 👨‍🔬 Fun fact: <strong>I have a Masters in Genetics and a PhD. in Biochemistry </strong>
 - 📫 How to reach me: gustavod.ferrari@gmail.com
 

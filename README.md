@@ -1,6 +1,6 @@
 <h1>Hi! Welcome to my GitHub page! I'm still an IT student (changing carrier), so please, don't mind the mess...🤓</h1>
 <div>
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Radeon_RX_570X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
 </div>

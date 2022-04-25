@@ -24,7 +24,6 @@
 </div>
 <hr/>
 <div align="center">
-  <a href="https://www.instagram.com/gustavod.ferrari/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavod.ferrari@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-ferrari-aa243293/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="http://lattes.cnpq.br/7362943609069381/" target="_blank"><img height="30" src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge" target="_blank"></a>

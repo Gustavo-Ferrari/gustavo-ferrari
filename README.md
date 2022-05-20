@@ -35,4 +35,4 @@
 - 💬 Ask me about <strong>Science!</strong>
 - 👨‍🔬 Fun fact: <strong>I have a Masters in Genetics and a PhD. in Biochemistry </strong>
 - 📫 How to reach me: gustavod.ferrari@gmail.com
-- 📄 My portfilio page is under construction, but you can check-it out on: https://gustavo-ferrari.github.io/
+- 📄 My portfilio page is under construction, but you can check it out on: https://gustavo-ferrari.github.io/

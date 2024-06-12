@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ferrari&layout=compact&theme=chartreuse-dark" />
 </div>
 <hr/>
-👷‍♂️ under construction...
+👷‍♂️ always under construction...
 <div align="center">
   ***
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
